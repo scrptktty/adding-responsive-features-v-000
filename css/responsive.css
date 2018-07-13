@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1108px) {
   .wrapper {
-  width: 90%;  
+  width: 90%;
   }
 
   #social  {
@@ -12,5 +12,15 @@
 
   #social a {
   display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    font-size: 85%;
+  }
+  #logo h1 {
+  width: 35px;
+  height: 35px;
   }
 }
