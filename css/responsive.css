@@ -79,8 +79,15 @@
     float: right;
     font-size: 1.5em;
     padding: 10px 20px;
-
+    width: auto;
   }
 
+  #logo {
+    padding-top: 60px 0 0;
+  }
+
+  #social {
+  top: 60px;
+}
 
 }
